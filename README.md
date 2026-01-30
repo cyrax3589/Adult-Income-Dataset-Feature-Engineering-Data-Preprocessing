@@ -16,7 +16,7 @@ The project demonstrates real-world preprocessing steps used in data science wor
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
